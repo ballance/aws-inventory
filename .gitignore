@@ -1,0 +1,44 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS files
+.DS_Store
+
+# AWS inventory output folders
+aws-inventory-*/
+
+# Topology image output
+*.png
+
+# Temporary files
+tmp.*
+*.bak
+*.log
+
+# Shell script output
+*.out
+*.tmp
+
+# Ignore compiled binaries
+*.so
+*.o
+*.a
