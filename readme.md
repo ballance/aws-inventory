@@ -24,8 +24,9 @@ Install AWS CLI:
 ```sh
 brew install awscli   # macOS
 sudo apt install awscli  # Ubuntu/Debian
+```
 
 Install necessary Python modules:
 ```
 python3 -m pip install matplotlib networkx
-```
+
