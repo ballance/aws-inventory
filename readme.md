@@ -1,5 +1,7 @@
 # AWS Inventory Visualizer
 
+![Example diagram](example_diagram.png)
+
 This repository provides tools to:
 1. **Collect AWS infrastructure data** using the AWS CLI (`inventory.sh`)
 2. **Generate network topology diagrams** from the collected data (`diagram.py`)
